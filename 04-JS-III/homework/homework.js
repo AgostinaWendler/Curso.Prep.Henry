@@ -266,7 +266,6 @@ function continueStatement(numero) {
     }
     numero = numero+2;
     nuevoArray.push(numero);
-  
   } return nuevoArray
    
   // var nuevoArray = [];
